@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @TechSarvagya
 - 👀 I’m interested in Machine Learning, Artificial Intelligence, Software Development,Web Development
-- 🌱 I have pursued BCA from Vivekananda Institute of Professional Studies
-- Skills: I have learnt and worked on languages like C,C++,VB.NET,JAVA,Python,Machine Learning, HTML,Javascript and CSS
+- 🌱 I have pursued BCA and MCA from GGSIPU 
+- Skills: I have learnt and worked on languages like C,C++,VB.NET,JAVA,Python,HTML,Javascript,CSS,React.js,Django,Django Rest Framework
 - 📫 Number:7042008802
