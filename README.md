@@ -2,7 +2,7 @@
 
 Full Stack Developer with experience building scalable web applications using React.js, Django, and Python.
 
-I enjoy working across both frontend and backend development — from building responsive user interfaces to developing REST and GraphQL APIs and integrating databases like MongoDB and SQL.
+I enjoy working across both frontend and backend development - from building responsive user interfaces to developing REST and GraphQL APIs and integrating databases like MongoDB and SQL.
 
 ---
 
